@@ -1,4 +1,4 @@
-# Multiverse I.A
+# Multiverse I.A.
 > Repositório dedicado a guardar todos os códigos desenvolvidos durante a produção de projetos, vídeos e post do Multiverse I.A 
 
 <p align="center">
