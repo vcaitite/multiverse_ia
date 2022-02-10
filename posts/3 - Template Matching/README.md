@@ -9,12 +9,13 @@ Alguns exemplos de aplicações são: detectar características específicas em 
 
 Nesse exeplo essa técnica foi utilizada para identificar 2 pokemons em uma imagem maior.
   
-## Imagens Utilizadas:
+## Imagen de Entrada:
 
 <p align="center">
   <img src="Pokemons.jpg" width="600"/>
 </p>
 
+## Templates
 
 ![alt-text-1](pikachu.jpg "template 1") ![alt-text-2](bulba.jpg "template 2")
 
@@ -25,4 +26,6 @@ Nesse exeplo essa técnica foi utilizada para identificar 2 pokemons em uma imag
   <img src="results1.png"/>
 </p>
 
-![alt-text-1](findpikachu.jpg "template 1") ![alt-text-2](findbulba.jpg "template 2")
+![alt-text-1](findpikachu.png "template 1") ![alt-text-2](findbulba.png "template 2")
+
+
