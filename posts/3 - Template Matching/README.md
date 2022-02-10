@@ -22,8 +22,8 @@ Nesse exeplo essa técnica foi utilizada para identificar 2 pokemons em uma imag
 
 ## Resultados:
 
-<p align="center">
-  <img src="results1.png"/>
+<p align="left">
+  <img src="results1.png" width="700"/>
 </p>
 
 ![alt-text-1](findpikachu.png "template 1") ![alt-text-2](findbulba.png "template 2")
